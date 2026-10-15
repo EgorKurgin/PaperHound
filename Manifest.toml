@@ -1,0 +1,10 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.13.0"
+manifest_format = "2.1"
+project_hash = "3eda4840982a72be7daaf480a3dfd947f007fc0c"
+
+[[deps.PaperHound]]
+path = "."
+uuid = "19ed236d-712e-448e-af01-84f2601928d7"
+version = "1.0.0-DEV"
