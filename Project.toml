@@ -1,0 +1,14 @@
+name = "PaperHound"
+uuid = "6228af65-b0d4-446f-a3d5-ffb3d47b0d6d"
+version = "0.1.0"
+authors = ["arzamas "]
+
+[deps]
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+HTTP = "2.14.2"
+Logging = "1.11.0"
+Test = "1.11.0"
